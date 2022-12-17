@@ -328,7 +328,7 @@ return [
         ['header' => 'account_settings'],
         [
             'text' => 'Book',
-            'url'  => 'admin/book',
+            'url'  => 'admin/books',
             'icon' => 'fas fa-fw fa-book',
         ],
         [
